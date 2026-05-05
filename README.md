@@ -25,3 +25,8 @@ A responsive React weather application that provides real-time data and adaptive
 ![App Preview](https://github.com/LiXiu37YaHua/weather-app-assessment/blob/main/Screenshot%202026-05-05%20161905.png)
 ![App Preview](https://github.com/LiXiu37YaHua/weather-app-assessment/blob/main/Screenshot%202026-05-05%20132608.png)
 
+### 📺 Project Demo Video
+[![Watch the Demo](https://github.com)](https://drive.google.com/file/d/1TG2KDHXWCLYkZ_9iltyq-A0XTYFxPO72/view?usp=sharing)
+
+*Click the image above to watch the full 1-2 minute demo video.*
+
