@@ -1,0 +1,14 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.weather-app {
+  text-align: center;
+  width: 100%;
+  max-width: 400px; /* Keeps it neat on desktop */
+  padding: 20px;
+}
