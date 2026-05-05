@@ -13,3 +13,7 @@ A responsive React weather application that provides real-time data and adaptive
 - React + Vite
 - OpenWeatherMap API
 - CSS Flexbox/Grid for Responsive Design
+
+- ### Images
+- ### 📸 Screenshot
+![App Preview](Screenshot 2026-05-05 151912.png)
