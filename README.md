@@ -16,4 +16,4 @@ A responsive React weather application that provides real-time data and adaptive
 
 - ### Images
 - ### 📸 Screenshot
-![App Preview](Screenshot 2026-05-05 151912.png)
+![App Preview](Screenshot%202026-05-05%20151912.png)
