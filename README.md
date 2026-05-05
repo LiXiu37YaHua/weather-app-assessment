@@ -20,4 +20,5 @@ A responsive React weather application that provides real-time data and adaptive
 ![App Preview](Screenshot%202026-05-05%20140829.png)
 ![App Preview](https://github.com/LiXiu37YaHua/weather-app-assessment/blob/main/Screenshot%202026-05-05%20132819.png)
 ![App Preview](https://github.com/LiXiu37YaHua/weather-app-assessment/blob/main/Screenshot%202026-05-05%20134216.png)
+![App Preview](https://github.com/LiXiu37YaHua/weather-app-assessment/blob/main/Screenshot%202026-05-05%20143506.png)
 
